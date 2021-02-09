@@ -15,11 +15,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL
-">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Portfolio Allocation </h3>
 
   <p align="center">
