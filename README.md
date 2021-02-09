@@ -105,15 +105,15 @@ Project Link: [https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL](h
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Prasanna28Devadiga/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/Prasanna28Devadiga/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Prasanna28Devadiga/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/Prasanna28Devadiga/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/Prasanna28Devadiga/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/Prasanna28Devadiga/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Prasanna28Devadiga/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/Prasanna28Devadiga/repo/issues
-[license-shield]: https://img.shields.io/github/license/Prasanna28Devadiga/repo.svg?style=for-the-badge
-[license-url]: https://github.com/Prasanna28Devadiga/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Prasanna28Devadiga/Portfolio-Allocation-DRL.svg?style=for-the-badge
+[contributors-url]: https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Prasanna28Devadiga/Portfolio-Allocation-DRL.svg?style=for-the-badge
+[forks-url]: https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL/network/members
+[stars-shield]: https://img.shields.io/github/stars/Prasanna28Devadiga/Portfolio-Allocation-DRL.svg?style=for-the-badge
+[stars-url]: https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Prasanna28Devadiga/Portfolio-Allocation-DRL.svg?style=for-the-badge
+[issues-url]: https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL/issues
+[license-shield]: https://img.shields.io/github/license/Prasanna28Devadiga/Portfolio-Allocation-DRL.svg?style=for-the-badge
+[license-url]: https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Prasanna28Devadiga
