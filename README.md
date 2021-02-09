@@ -59,7 +59,7 @@
 2. Uses high quality implementations provided by [Stable Baselines](https://github.com/DLR-RM/stable-baselines3)
 3. Follows the [Black](https://black.readthedocs.io/en/stable/the_black_code_style.html) coding style
 4. Is as deterministic as possible to increase reproducability. This will be done by iterating over multiple fixed random seeds
-5. Uses technical indicators such as Moving average convergence divergence (MACD) , Relative strength index (RSI), Commodity Channel Index (CCI) , Average Directional Movement Index (ADX) besides returns
+5. Uses technical indicators such as Moving average convergence divergence (MACD) , Relative strength index (RSI), Commodity Channel Index (CCI) , Average Directional Movement Index (ADX) beside average returns
 
 
 ### Built With
@@ -69,9 +69,9 @@
 
 <!-- ROADMAP -->
 ## Roadmap
-Phase 1: Getting it to work
-Phase 2: Improve code quality and refactor code according to the best practices
-Phase 3: Support for Live Trading
+Phase 1: Getting it to work  
+Phase 2: Improve code quality and refactor code according to the best practices  
+Phase 3: Support for Live Trading  
 See the [open issues](https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
