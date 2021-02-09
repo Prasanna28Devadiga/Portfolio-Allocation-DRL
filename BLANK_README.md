@@ -70,8 +70,7 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL
-/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
