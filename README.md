@@ -6,12 +6,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -53,28 +55,32 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 1. Uses an ensemble of Deep Reinforcement Learning Algorithms over a single algorithm to account for the various drawbacks
 2. Uses high quality implementations provided by [Stable Baselines](https://github.com/DLR-RM/stable-baselines3)
 3. Follows the [Black](https://black.readthedocs.io/en/stable/the_black_code_style.html) coding style
-4. Is as deterministic as possible to increase reproducability. 
+4. Is as deterministic as possible to increase reproducability.
 5. Uses technical indicators such as Moving average convergence divergence (MACD) , Relative strength index (RSI), Commodity Channel Index (CCI) , Average Directional Movement Index (ADX) beside average returns
 
-
 ### Built With
-* [PyTorch](https://pytorch.org/)
-* [OpenAI Gym](https://gym.openai.com/)
-* [stable-baselines-3](https://stable-baselines.readthedocs.io/en/master/)
+
+- [PyTorch](https://pytorch.org/)
+- [OpenAI Gym](https://gym.openai.com/)
+- [stable-baselines-3](https://stable-baselines.readthedocs.io/en/master/)
 
 <!-- ROADMAP -->
+
 ## Roadmap
+
 Phase 1: Getting it to work  
 Phase 2: Improve code quality and refactor code according to the best practices  
 Phase 3: Support for Live Trading  
 See the [open issues](https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -85,26 +91,29 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
+
 [Black](https://github.com/psf/black)
 
-
 <!-- CONTACT -->
+
 ## Contact
 
 Prasanna Devadiga - [@https://twitter.com/Prasanna280](https://twitter.com/https://twitter.com/Prasanna280) - prasanna2019@iiitkottayam.ac.in
+
+Sung Jae Bae - [Twitter](https://twitter.com/sbae703) [LinkedIn](https://www.linkedin.com/in/sungjaebae/) - sbae703@gmail.com
 
 Project Link: [https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL](https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/Prasanna28Devadiga/Portfolio-Allocation-DRL.svg?style=for-the-badge
 [contributors-url]: https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Prasanna28Devadiga/Portfolio-Allocation-DRL.svg?style=for-the-badge
