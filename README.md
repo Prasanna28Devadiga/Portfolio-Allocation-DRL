@@ -76,7 +76,7 @@
 
 Phase 1: Getting it to work  
 Phase 2: Improve code quality and refactor code according to the best practices  
-Phase 3: Support for Live Trading  
+Phase 3: Support for Live Trading , Fractional Shares 
 See the [open issues](https://github.com/Prasanna28Devadiga/Portfolio-Allocation-DRL/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
